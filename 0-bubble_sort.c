@@ -1,8 +1,6 @@
 #include "sort.h"
 
-/**
- * Buble sort implementation
-*/
+
 void swap(int *a, int *b);
 
 
